@@ -1,34 +1,39 @@
-<h1 align="center">Hola 👋, soy Brayan Herland Mancilla Escalera</h1>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Brayan%20Mancilla&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Aspiring%20Backend%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Aspirante a Backend Developer</h3>
-
-<p align="center">
-  <a href="mailto:brayanmancillaescalera@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-brayanmancillaescalera@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 Sobre Mí
-
-* 🎓 Estudio **Ingeniería de Sistemas** en la *Universidad Mayor de San Simón* (Bolivia).
-* ⚙️ Estoy en camino a especializarme en **Backend** con un gran interés en explorar el mundo **DevOps**.
-* 🌍 **Idiomas:** Español (Nativo) | **Inglés:** B2 (Conversacional).
-* 🚀 **Mi objetivo:** Aprender algo nuevo sobre tecnología todos los días, manteniéndome curioso incluso en áreas fuera de mi especialidad.
+<div align="center">
+  
+  <p align="center">
+    <a href="mailto:brayanmancillaescalera@gmail.com">
+      <img src="https://img.shields.io/badge/Email-brayanmancillaescalera@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/brayanherlandmancillaescalera/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 👨‍💻 About Me
 
-**Lenguajes de Programación**
+* 🎓 **Systems Engineering** student at *Universidad Mayor de San Simón* (Bolivia).
+* ⚙️ On my way to specializing in **Backend Development**, with a growing interest in **DevOps** practices.
+* 🌍 **Languages:** Spanish (Native) | **English:** B2 (Conversational).
+* 🚀 **My Objective:** I am driven by a constant curiosity to learn something new about technology every single day, stepping out of my comfort zone to explore areas beyond my main field.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-**Entorno y Herramientas**
+**Tools & Environments**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -38,21 +43,27 @@
 
 ---
 
-## 📚 Enfoque Actual de Aprendizaje
+## 📚 Currently Focusing On
 
-Actualmente estoy invirtiendo tiempo en reforzar y dominar las bases fundamentales de la ingeniería de software:
+I am currently dedicating time to mastering the core fundamentals of software engineering to build a solid backend foundation:
 
-* 🧱 **Estructuras de Datos y Algoritmos**
-* 🗄️ **Bases de Datos** (Diseño, consultas y optimización)
-* 🧩 **Programación Orientada a Objetos (POO)**
-* 🌐 **Fundamentos de Redes y Arquitectura de Computadoras**
+* 🧱 **Data Structures & Algorithms**
+* 🗄️ **Databases** (Design, querying, and optimization)
+* 🧩 **Object-Oriented Programming (OOP)**
+* 🌐 **Computer Architecture & Networking Basics**
 
 ---
 
-## 🤝 Comunidad y Liderazgo
+## 🤝 Community & Leadership
 
-Creo firmemente que la tecnología se construye en equipo. 
+I firmly believe that technology is built by people, and community involvement is key to professional growth.
 
-* 🗣️ Soy partícipe activo en **comunidades de tecnología**.
-* 📅 Me apasiona ser parte de la **organización de eventos**.
-* 💡 Disfruto conocer gente apasionada en este campo, aportar valor y crear espacios donde todos podamos crecer y aprender juntos.
+* 📅 **Event Organization:** I have solid experience organizing both **local and national events**, coordinating teams and logistics to create impactful experiences.
+* 🗣️ **Tech Communities:** Active participant in technology groups.
+* 💡 I am passionate about connecting with like-minded, driven individuals, contributing value, and fostering environments where we can all learn and grow together.
+
+---
+
+<div align="center">
+  <i>"Consistent progress every day is better than occasional perfection."</i>
+</div>
