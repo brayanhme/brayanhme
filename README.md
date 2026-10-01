@@ -1,4 +1,3 @@
-```markdown
 <!-- ========================= HEADER ========================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Brayan%20Mancilla&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Backend%20%7C%20Cloud%20%7C%20Databases&descAlignY=60&descSize=18" width="100%" />
