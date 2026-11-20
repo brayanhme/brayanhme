@@ -1,9 +1,9 @@
-
 <!-- ========================= PROFILE HEADER ========================= -->
+<!-- Animated GIF is the default for reliable playback in GitHub READMEs. -->
 
 <div align="center">
 
-  <img src="brayan_mancilla_systems_engineer_banner.svg" width="100%" alt="Brayan Mancilla | Backend Developer" />
+  <img src="./assets/brayan_mancilla_backend_animated.gif" width="100%" alt="Brayan Mancilla | Systems Engineer and Backend Developer — animated architecture from REST API to database and cloud" />
 
 </div>
 
@@ -53,13 +53,13 @@ Keep learning. Keep improving.
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Java, Python, JavaScript, and TypeScript" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" alt="Spring Boot, NestJS, and Node.js" />
 </p>
 
 - RESTful API Development
@@ -73,11 +73,11 @@ Keep learning. Keep improving.
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" alt="PostgreSQL, MySQL, and Prisma" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
 - Relational Database Design
@@ -91,7 +91,7 @@ Keep learning. Keep improving.
 ### 🐧 Systems & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vscode,postman" alt="Linux, Ubuntu, Bash, Docker, Git, GitHub, VS Code, and Postman" />
 </p>
 
 - Linux Environments
@@ -105,8 +105,8 @@ Keep learning. Keep improving.
 ### ☁️ Cloud Computing
 
 <p>
-  <img src="https://img.shields.io/badge/Cloud_Computing-Exploring-2563EB?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-Exploring-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing — Exploring" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS — Learning" />
 </p>
 
 I'm currently strengthening my understanding of **Cloud Computing**, with a focus on the **AWS ecosystem** and its role in modern backend development.
@@ -148,7 +148,6 @@ My interests include cloud infrastructure, application deployment, scalability, 
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -197,30 +196,26 @@ I'm continuously improving my skills in:
 
 ### 🔄 From Code to Cloud
 
-```text
-            SOFTWARE DEVELOPMENT
-                    │
-                    ▼
-             Backend Services
-                    │
-                    ▼
-               REST APIs
-                    │
-                    ▼
-             SQL Databases
-                    │
-                    ▼
-             Linux & Docker
-                    │
-                    ▼
-             Cloud Computing
-                    │
-                    ▼
-              AWS Ecosystem
-                    │
-                    ▼
-           Scalable Applications
-```
+<div align="center">
+  <img src="./assets/brayan_mancilla_code_to_cloud.svg" width="100%" alt="Diagram showing a backend learning path from Java and Python through REST APIs, PostgreSQL, Docker and Linux, to AWS" />
+</div>
+
+<details>
+<summary><strong>🔎 Explore the backend workflow</strong> — click to expand</summary>
+
+<br />
+
+| Stage | Technologies | What I'm focusing on |
+| :--- | :--- | :--- |
+| **01 · Build** | Java, Python, Spring Boot, NestJS | Writing clean, structured server-side code |
+| **02 · Serve** | REST APIs, authentication | Connecting services through reliable interfaces |
+| **03 · Store** | PostgreSQL, SQL, Prisma | Data modeling, integrity, and efficient queries |
+| **04 · Package** | Linux, Docker | Understanding application environments and containers |
+| **05 · Learn** | AWS | Exploring cloud deployment, reliability, and scalability |
+
+**My approach:** understand every layer instead of treating the application as a black box.
+
+</details>
 
 ---
 
@@ -228,11 +223,11 @@ I'm continuously improving my skills in:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud_Computing-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Databases-1E40AF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software_Architecture-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevOps-475569?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/Cloud_Computing-2563EB?style=for-the-badge" alt="Cloud Computing" />
+<img src="https://img.shields.io/badge/Databases-1E40AF?style=for-the-badge" alt="Databases" />
+<img src="https://img.shields.io/badge/Software_Architecture-334155?style=for-the-badge" alt="Software Architecture" />
+<img src="https://img.shields.io/badge/DevOps-475569?style=for-the-badge" alt="DevOps" />
 
 </div>
 
@@ -266,6 +261,6 @@ I enjoy collaborating with people who are passionate about technology, knowledge
 
 **Always learning. Always building.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="Blue wave footer" />
 
 </div>
