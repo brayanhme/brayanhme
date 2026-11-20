@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <img src="./assets/header.svg" width="100%" alt="Brayan Mancilla | Backend Developer" />
+  <img src="header.svg" width="100%" alt="Brayan Mancilla | Backend Developer" />
 
 </div>
 
