@@ -1,11 +1,16 @@
 <!-- ========================= PROFILE HEADER ========================= -->
 <!-- Animated GIF is the default for reliable playback in GitHub READMEs. -->
 
+
+<!-- BACKEND UNIVERSE -->
 <div align="center">
-
-  <img src="./assets/brayan_mancilla_backend_animated.gif" width="100%" alt="Brayan Mancilla | Systems Engineer and Backend Developer — animated architecture from REST API to database and cloud" />
-
+  <img
+    src="./assets/brayan_backend_universe.gif"
+    alt="Brayan Mancilla | Systems Engineer & Backend Developer"
+    width="100%"
+  />
 </div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brayanherlandmancillaescalera/">
