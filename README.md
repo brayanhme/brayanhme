@@ -1,21 +1,26 @@
-<!-- ========================= HEADER ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Brayan%20Mancilla&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20%7C%20Backend%20%7C%20Cloud%20%7C%20Databases&descAlignY=60&descSize=18" width="100%" />
+<!-- ========================= HEADER ========================= -->
 
 <div align="center">
 
-### 👋 Hi, I'm Brayan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Brayan%20Mancilla&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Databases%20%7C%20Cloud%20Computing&descAlignY=60&descSize=20" width="100%" />
 
-**Systems Engineering Student | Backend-Oriented Developer | Cloud & Database Enthusiast**
+# 👋 Hi, I'm Brayan Mancilla
+
+### 💻 Backend Developer | ☁️ Cloud & AWS Enthusiast
+
+**Building reliable backend solutions, exploring cloud technologies, and continuously improving my engineering skills.**
 
 <p>
   <a href="mailto:brayanmancillaescalera@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/brayanherlandmancillaescalera/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=BrayanMancilla&style=flat-square&color=2563EB&label=Profile+Views" />
 
 </div>
 
@@ -23,53 +28,125 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Systems Engineering student at Universidad Mayor de San Simón (Bolivia)** focused on building a strong technical foundation in **backend development, databases, Linux and cloud computing**.
+I'm a **Backend Developer** based in Bolivia, passionate about designing and building reliable, maintainable, and efficient software solutions.
 
-I enjoy understanding not only how to write software, but also how the systems behind it work: **operating systems, networking, databases, servers and cloud infrastructure**.
+My technical focus is on **backend development, RESTful APIs, relational databases, and software architecture**, using technologies such as **Java, Python, Spring Boot, and NestJS**.
 
-My current goal is to continue developing the skills required to design and build **reliable backend applications and scalable software solutions**, while progressively strengthening my knowledge of **AWS and DevOps practices**.
+I enjoy understanding how applications work beyond the code, exploring the relationship between **backend systems, databases, operating systems, networking, and infrastructure**.
+
+Currently, I'm expanding my knowledge of **Cloud Computing, with a particular focus on Amazon Web Services (AWS)**, to better understand how modern applications are deployed, managed, and scaled.
+
+My goal is to continuously improve as a backend engineer while integrating cloud knowledge into the software development lifecycle.
 
 ```text
-Build → Understand → Improve → Repeat
+Build reliable software.
+Understand the systems behind it.
+Keep learning. Keep improving.
 ```
 
-🌎 **Spanish:** Native  
-🇺🇸 **English:** B2 / Conversational  
-📍 **Bolivia**
+🌎 **Location:** Bolivia  
+🗣️ **Spanish:** Native  
+🇺🇸 **English:** B2 / Conversational
 
 ---
 
-# 🧠 Technical Profile
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs" />
+</p>
+
+- RESTful API Development
+- Object-Oriented Programming
+- Backend Architecture
+- Authentication & Authorization
+- API Integration
+- Server-Side Development
+- Data Structures & Algorithms
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+- Relational Database Design
+- Advanced SQL
+- Database Modeling
+- Queries & Subqueries
+- Stored Procedures
+- Indexing & Query Optimization
+- Data Integrity & Relationships
+
+### 🐧 Systems & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vscode,postman" />
+</p>
+
+- Linux Environments
+- Command Line & Bash
+- Git & Version Control
+- Containerization Fundamentals
+- Operating Systems
+- Networking Fundamentals
+- Development Environments
+
+### ☁️ Cloud Computing
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Computing-Exploring-2563EB?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-Learning-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+</p>
+
+I'm currently strengthening my understanding of **Cloud Computing**, with a focus on the **AWS ecosystem** and its role in modern backend development.
+
+My interests include cloud infrastructure, application deployment, scalability, reliability, and the integration of backend systems with cloud environments.
+
+---
+
+## 🧠 Technical Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programming
+### ⚙️ Backend Engineering
 
-- 🐍 **Python — Intermediate**
-- ☕ **Java — Intermediate**
-- 🧩 Object-Oriented Programming
-- 🏗️ Data Structures & Algorithms
-- 🔧 Problem Solving
-- 🖥️ Command Line Environments
+- Java & Python
+- Spring Boot
+- NestJS
+- REST APIs
+- Object-Oriented Design
+- Backend Architecture
+- API Development
+- Problem Solving
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🗄️ Databases
+### 🗄️ Data Management
 
-- 🔥 **Advanced Relational Databases**
-- Microsoft SQL Server
 - PostgreSQL
+- Microsoft SQL Server
+- Relational Databases
+- SQL Optimization
 - Database Design
-- SQL Queries
-- Joins & Subqueries
-- Stored Procedures
-- Indexes
-- Query Optimization
-- Relational Modeling
+- Data Modeling
+- Indexes & Relationships
+- Data Integrity
 
 </td>
 </tr>
@@ -77,30 +154,28 @@ Build → Understand → Improve → Repeat
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 Systems & Linux
+### 🐧 Systems & Tools
 
-- Linux / Ubuntu
-- WSL
-- Bash / Linux CLI
-- File Systems
-- Processes
-- Users & Permissions
-- Operating Systems Concepts
-- Windows & Linux Environments
+- Linux
+- Git & GitHub
+- Docker
+- Bash
+- Operating Systems
+- Networking Concepts
+- Development Workflows
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🌐 Infrastructure
+### ☁️ Cloud & Infrastructure
 
-- Computer Networking Fundamentals
-- TCP/IP Concepts
-- IP Addressing
-- Switching & Routing Fundamentals
-- Network Troubleshooting
-- **AWS Fundamentals**
 - Cloud Computing Concepts
+- AWS Learning Path
+- Cloud Architecture Fundamentals
+- Application Deployment Concepts
+- Infrastructure Fundamentals
+- Scalability & Reliability
+- DevOps Concepts
 
 </td>
 </tr>
@@ -108,171 +183,90 @@ Build → Understand → Improve → Repeat
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 What I'm Currently Focused On
 
-### Languages
+My professional development is centered around **Backend Engineering and Cloud Computing**.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+I'm continuously improving my skills in:
 
-### Databases
+- ⚙️ **Backend Development:** Building structured and maintainable server-side applications.
+- ☕ **Java Ecosystem:** Strengthening backend development with Java and Spring Boot.
+- 🐍 **Python:** Developing programming and backend problem-solving skills.
+- 🗄️ **Databases:** Improving relational data modeling and SQL performance.
+- 🐧 **Linux & Docker:** Working with development environments and containerization.
+- ☁️ **AWS & Cloud Computing:** Learning cloud concepts and exploring cloud-based application architectures.
+- 🏗️ **Software Architecture:** Understanding maintainability, scalability, and system design.
 
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-Advanced-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Relational_Databases-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
-
-### Version Control
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Systems & Development Environment
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-Fundamentals-1E40AF?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operating_Systems-Knowledge-374151?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
----
-
-# 🔍 Areas of Knowledge
+### 🔄 From Code to Cloud
 
 ```text
-Software Engineering
-│
-├── Programming
-│   ├── Python
-│   ├── Java
-│   ├── OOP
-│   └── Data Structures & Algorithms
-│
-├── Databases
-│   ├── SQL Server
-│   ├── PostgreSQL
-│   ├── Relational Modeling
-│   ├── Indexing
-│   └── Query Optimization
-│
-├── Systems
-│   ├── Linux
-│   ├── Windows
-│   ├── WSL
-│   └── Operating Systems
-│
-├── Networking
-│   ├── TCP/IP
-│   ├── IP Addressing
-│   ├── Switching
-│   └── Routing Fundamentals
-│
-└── Cloud
-    └── AWS Fundamentals
+            SOFTWARE DEVELOPMENT
+                    │
+                    ▼
+             Backend Services
+                    │
+                    ▼
+               REST APIs
+                    │
+                    ▼
+             SQL Databases
+                    │
+                    ▼
+             Linux & Docker
+                    │
+                    ▼
+             Cloud Computing
+                    │
+                    ▼
+              AWS Ecosystem
+                    │
+                    ▼
+           Scalable Applications
 ```
 
 ---
 
-# 🚀 Currently Growing Toward
-
-My current learning path is focused on becoming a strong **Backend / Cloud-oriented Software Engineer**.
-
-I'm continuously strengthening my knowledge in:
-
-**Backend Development** → APIs → Databases → Linux → Docker → Cloud → AWS → DevOps
-
-My goal is to understand the complete lifecycle of an application:
-
-```text
-Code
-  ↓
-Git / GitHub
-  ↓
-Backend
-  ↓
-Database
-  ↓
-Linux
-  ↓
-Containers
-  ↓
-Cloud Infrastructure
-  ↓
-Production
-```
-
----
-
-# 📚 Currently Learning
-
-🧱 **Data Structures & Algorithms**
-
-⚙️ **Backend Development**
-
-🗄️ **Advanced SQL & Database Optimization**
-
-🐧 **Linux Administration**
-
-🐳 **Containers & Docker**
-
-☁️ **Amazon Web Services**
-
-🌐 **Computer Networking**
-
-🔐 **Software & Infrastructure Fundamentals**
-
----
-
-# 🎯 Professional Interests
+## 🎯 Professional Interests
 
 <div align="center">
 
-`Backend Development` • `Cloud Computing` • `Databases` • `Linux` • `DevOps` • `Software Engineering`
+<img src="https://img.shields.io/badge/Backend_Engineering-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud_Computing-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databases-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software_Architecture-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DevOps-475569?style=for-the-badge" />
 
 </div>
 
-I am particularly interested in roles where I can combine **software development with systems knowledge**, understanding how applications interact with databases, operating systems, networks and cloud infrastructure.
+I'm interested in opportunities involving **backend development, API engineering, database-driven applications, and cloud-oriented software solutions**.
+
+I value writing maintainable code, understanding system behavior, and continuously improving software quality.
 
 ---
 
-# 🤝 Community & Leadership
+## 🤝 Collaboration & Leadership
 
-Beyond the technical side of engineering, I value teamwork, communication and community involvement.
+Alongside software development, I value **teamwork, communication, collaboration, and leadership**.
 
-I have experience participating in and helping organize **local and national events**, coordinating people, logistics and activities.
+I have participated in organizing and coordinating local and national initiatives, developing experience in teamwork, planning, and problem-solving.
 
-I enjoy being part of technology communities where developers and students can **share knowledge, collaborate and grow together**.
+I enjoy collaborating with people who are passionate about technology, knowledge sharing, and building meaningful solutions.
 
 ---
 
-# 💡 Engineering Mindset
+## 💡 Engineering Mindset
 
 <div align="center">
 
-### `Learn deeply. Build consistently. Improve continuously.`
+### `Build. Understand. Improve. Repeat.`
+
+> Great software is not just about writing code.  
+> It's about understanding systems, solving problems,  
+> and building solutions that last.
 
 <br>
 
-> I don't want to simply learn how to use technology.  
-> I want to understand how it works.
-
-<br>
+**Always learning. Always building.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=120&section=footer" width="100%" />
 
