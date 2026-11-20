@@ -1,28 +1,26 @@
 
-<!-- ========================= HEADER ========================= -->
+<!-- ========================= PROFILE HEADER ========================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=260&section=header&text=Brayan%20Mancilla&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Databases%20%7C%20Cloud%20Computing&descAlignY=60&descSize=20" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Brayan Mancilla | Backend Developer" />
 
-# 👋 Hi, I'm Brayan Mancilla
+</div>
 
-### 💻 Backend Developer | ☁️ Cloud & AWS Enthusiast
-
-**Building reliable backend solutions, exploring cloud technologies, and continuously improving my engineering skills.**
-
-<p>
-  <a href="mailto:brayanmancillaescalera@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/brayanherlandmancillaescalera/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:brayanmancillaescalera@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=BrayanMancilla&style=flat-square&color=2563EB&label=Profile+Views" />
-
-</div>
+<p align="center">
+  Backend Developer focused on <strong>APIs, databases, and maintainable software</strong>.<br />
+  Currently expanding my knowledge of <strong>Cloud Computing</strong>, with a focus on <strong>AWS</strong>.
+</p>
 
 ---
 
