@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1786" height="484" viewBox="0 0 1786 484" role="img" aria-labelledby="bannerTitle bannerDesc">
+  <title id="bannerTitle">Brayan Mancilla — Animated Systems Engineer &amp; Backend Developer banner</title>
+  <desc id="bannerDesc">Elegant animated technology banner with REST API data packets traveling to database and cloud, Java, Python, SQL and AWS learning; loops without JavaScript.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091426"/>
+      <stop offset="0.54" stop-color="#0b1730"/>
+      <stop offset="1" stop-color="#10274b"/>
+    </linearGradient>
+    <radialGradient id="rightGlow" cx="0.87" cy="0.53" r="0.69">
+      <stop offset="0" stop-color="#173d78" stop-opacity="0.52"/>
+      <stop offset="0.52" stop-color="#102b58" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#091426" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="cardFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1c38"/>
+      <stop offset="1" stop-color="#09172d"/>
+    </linearGradient>
+    <linearGradient id="chipFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173452"/>
+      <stop offset="1" stop-color="#142a45"/>
+    </linearGradient>
+    <linearGradient id="awsFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#193a4b"/>
+      <stop offset="1" stop-color="#182b3e"/>
+    </linearGradient>
+    <linearGradient id="nodeFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#143754"/>
+      <stop offset="1" stop-color="#0e2743"/>
+    </linearGradient>
+    <pattern id="dotField" x="0" y="0" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.5" fill="#3c76b3" opacity="0.23"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="15" stdDeviation="18" flood-color="#010912" flood-opacity="0.32"/>
+    </filter>
+    <clipPath id="roundFrame">
+      <rect x="1" y="1" width="1784" height="482" rx="4"/>
+    </clipPath>
+  <style type="text/css">
+  .api-card { animation: apiBreathe 3.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .flow-dashes { animation: networkFlow 1.5s linear infinite; }
+  .aws-dot { animation: awsBeacon 3.2s ease-in-out infinite; }
+  .online-dot { animation: statusBlink 2.4s ease-in-out infinite; }
+  .live-letter { animation: onlineGlow 2.4s ease-in-out infinite; }
+  .left-glow { animation: ambientBreathe 7s ease-in-out infinite; }
+  .tag-border { animation: tagBreathe 3.7s ease-in-out infinite; }
+  .cursor { animation: cursorBlink 1.2s steps(1, end) infinite; }
+  .grid-light { animation: ambientBreathe 9s ease-in-out infinite; }
+  @keyframes apiBreathe { 0%,100% {opacity:.78} 50% {opacity:1} }
+  @keyframes networkFlow { to {stroke-dashoffset:-62} }
+  @keyframes awsBeacon { 0%,100%{opacity:.7} 55%{opacity:1} }
+  @keyframes statusBlink { 0%,100%{opacity:1} 50%{opacity:.35} }
+  @keyframes onlineGlow { 0%,100%{opacity:.95} 50%{opacity:.62} }
+  @keyframes ambientBreathe { 0%,100%{opacity:.14} 50%{opacity:.43} }
+  @keyframes tagBreathe {0%,100%{opacity:.25} 50%{opacity:.85}}
+  @keyframes cursorBlink {0%,48%{opacity:1} 49%,100%{opacity:0}}
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style></defs>
+
+  <g clip-path="url(#roundFrame)">
+    <rect width="1786" height="484" fill="url(#background)"/>
+    <rect width="1786" height="484" fill="url(#rightGlow)"/>
+
+    <ellipse cx="1460" cy="230" rx="330" ry="210" fill="#1557ad" opacity="0.12" filter="url(#softGlow)" class="left-glow"/><!-- Subtle systems grid on the right -->
+    <rect x="1125" y="0" width="661" height="484" fill="url(#dotField)" opacity="0.58"/>
+    <path d="M0 436 C190 391 339 405 526 442 S902 473 1103 418 S1497 370 1786 441" fill="none" stroke="#2d679e" stroke-opacity="0.15" stroke-width="2"/>
+    <path d="M0 453 C264 408 429 430 603 458 S983 488 1179 437 S1568 406 1786 458" fill="none" stroke="#183f72" stroke-opacity="0.14" stroke-width="1.4"/>
+    <path d="M0 483 H1786" stroke="#31577c" stroke-opacity="0.24" stroke-width="1.5"/>
+
+    <!-- Identity icon -->
+    <rect x="100" y="71" width="47" height="47" rx="11" fill="#123756" stroke="#28557b" stroke-width="1.5"/>
+    <path d="M115 88 L109 95 L115 102 M132 88 L138 95 L132 102 M127 85 L120 106" fill="none" stroke="#63caff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" class="online-dot"/>
+    <text x="169" y="102" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="750" letter-spacing="3.1" fill="#92c9ff">SYSTEMS ENGINEER <tspan fill="#4ca7ec">/</tspan> BACKEND DEVELOPER</text>
+
+    <!-- Name and descriptor -->
+    <text x="100" y="235" font-family="Inter, Inter Display, Arial, sans-serif" font-size="92" font-weight="780" letter-spacing="-4.6" fill="#f6f8ff">Brayan Mancilla</text>
+    <text x="104" y="302" font-family="Inter, Arial, sans-serif" font-size="29.5" font-weight="400" fill="#a9cff5">Building reliable APIs and maintainable backend systems.</text>
+
+    <!-- Technology tags -->
+    <g font-family="Inter, Arial, sans-serif" font-size="20" font-weight="620">
+      <g>
+        <rect x="102" y="355" width="155" height="53" rx="13" fill="url(#chipFill)" stroke="#2b5072" stroke-width="1.4"/>
+        <circle cx="127" cy="381.5" r="6" fill="#59c3ff"/>
+        <text x="145" y="389" fill="#e2f1ff">Java</text>
+      </g>
+      <g>
+        <rect x="274" y="355" width="175" height="53" rx="13" fill="url(#chipFill)" stroke="#2b5072" stroke-width="1.4"/>
+        <circle cx="299" cy="381.5" r="6" fill="#66b7ff"/>
+        <text x="317" y="389" fill="#e2f1ff">Python</text>
+      </g>
+      <g>
+        <rect x="466" y="355" width="164" height="53" rx="13" fill="url(#chipFill)" stroke="#2b5072" stroke-width="1.4"/>
+        <circle cx="491" cy="381.5" r="6" fill="#a58cff"/>
+        <text x="509" y="389" fill="#e2f1ff">SQL</text>
+      </g>
+      <g>
+        <rect x="647" y="355" width="366" height="53" rx="13" fill="url(#awsFill)" stroke="#365767" stroke-width="1.4"/>
+        <circle cx="673" cy="381.5" r="6" fill="#ffc84d" class="aws-dot"/>
+        <text x="691" y="389" fill="#edf5ff">AWS <tspan fill="#a8c3d7" font-weight="440">· Currently learning</tspan></text>
+      </g>
+    </g>
+
+    <!-- Backend system map panel -->
+    <g filter="url(#cardShadow)">
+      <rect x="1260" y="69" width="444" height="348" rx="27" fill="url(#cardFill)" stroke="#274967" stroke-width="1.6"/>
+    </g>
+    <path d="M1261 140.5 H1703" stroke="#27425e" stroke-width="1.6" opacity="0.85"/>
+    <circle cx="1295" cy="105" r="7.2" fill="#517494"/>
+    <circle cx="1322" cy="105" r="7.2" fill="#517494"/>
+    <circle cx="1349" cy="105" r="7.2" fill="#517494"/>
+    <text x="1665" y="112" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="18" letter-spacing="1.9" fill="#82a5ce">SYSTEM MAP</text>
+
+    <g><circle cx="1416" cy="106" r="5" fill="#53e7bd" class="online-dot"/><text x="1428" y="112" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="1.4" fill="#83d8c3" class="live-letter">LIVE</text><rect x="1616" y="375" width="2" height="12" rx="1" fill="#6bcfff" opacity="0.9" class="cursor"/></g><rect x="1401" y="166" width="171" height="56" rx="13" fill="#173f5e" stroke="#4381b1" stroke-width="1.8" class="api-card"/>
+    <text x="1486.5" y="200" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="750" fill="#cceeff">REST API</text>
+
+    <!-- API branching architecture -->
+    <path d="M1486 222 V260 M1486 260 H1376 V292 M1486 260 H1595 V292" fill="none" stroke="#4286be" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1486 222 V260 M1486 260 H1376 V292 M1486 260 H1595 V292" fill="none" stroke="#5cd5ff" stroke-width="3.3" opacity="0.72" stroke-linecap="round" stroke-dasharray="7 21" class="flow-dashes"/><g aria-label="Animated API request traffic"><circle cx="0" cy="0" r="6.5" fill="#51dcff" opacity="0"><animateMotion dur="3.6s" begin="0s" path="M1486 222 L1486 260 L1376 260 L1376 292" repeatCount="indefinite" calcMode="paced"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></circle><circle cx="0" cy="0" r="6.5" fill="#ffc96e" opacity="0"><animateMotion dur="3.6s" begin="1.2s" path="M1486 222 L1486 260 L1595 260 L1595 292" repeatCount="indefinite" calcMode="paced"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle><circle cx="0" cy="0" r="6.5" fill="#83edce" opacity="0"><animateMotion dur="3.6s" begin="2.4s" path="M1486 222 L1486 260 L1376 260 L1376 292" repeatCount="indefinite" calcMode="paced"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.8;1" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle></g><circle cx="1486" cy="260" r="6.1" fill="#46bdff"/>
+    <circle cx="1486" cy="260" r="12" fill="#46bdff" opacity="0.15" filter="url(#softGlow)"/>
+    <rect x="1299" y="292" width="164" height="61" rx="12" fill="url(#nodeFill)" stroke="#376486" stroke-width="1.7" class="api-card"/>
+    <rect x="1520" y="292" width="151" height="61" rx="12" fill="url(#nodeFill)" stroke="#376486" stroke-width="1.7" class="api-card"/>
+    <text x="1381" y="330" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19.7" font-weight="690" fill="#c3e2ff">DATABASE</text>
+    <text x="1595.5" y="330" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="19.7" font-weight="690" fill="#c3e2ff">CLOUD</text>
+    <text x="1486" y="389" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" letter-spacing="2.6" font-weight="570" fill="#699ccd">BUILD · CONNECT · SCALE</text>
+  </g>
+  <rect x="1" y="1" width="1784" height="482" rx="4" fill="none" stroke="#223956" stroke-opacity="0.65" stroke-width="2"/>
+</svg>
