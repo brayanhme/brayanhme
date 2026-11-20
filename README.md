@@ -1,7 +1,4 @@
 <!-- ========================= PROFILE HEADER ========================= -->
-<!-- Animated GIF is the default for reliable playback in GitHub READMEs. -->
-
-
 <!-- BACKEND UNIVERSE -->
 <div align="center">
   <img
@@ -124,20 +121,19 @@ My interests include cloud infrastructure, application deployment, scalability, 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
-- Java & Python
-- Spring Boot
-- NestJS
-- REST APIs
-- Object-Oriented Design
-- Backend Architecture
-- API Development
-- Problem Solving
-
+  <h3>⚙️ Backend Engineering</h3>
+  <ul>
+    <li>Java &amp; Python</li>
+    <li>Spring Boot &amp; NestJS</li>
+    <li>REST APIs</li>
+    <li>Object-Oriented Design</li>
+    <li>Backend Architecture</li>
+    <li>Problem Solving</li>
+  </ul>
 </td>
+
 <td width="50%" valign="top">
 
 ### 🗄️ Data Management
