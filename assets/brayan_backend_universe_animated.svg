@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-label="Brayan Mancilla - Systems Engineer and Backend Developer. Animated backend universe architecture from APIs and SQL to cloud.">
+<title>Brayan Mancilla | Backend Universe</title>
+<desc>Terminal and backend architecture with REST API, PostgreSQL and AWS learning, in a dark navy technology aesthetic.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070E1D"/><stop offset=".51" stop-color="#0C1930"/><stop offset="1" stop-color="#0B2441"/></linearGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#1B5DA6" stop-opacity=".55"/><stop offset="1" stop-color="#0B254A" stop-opacity="0"/></radialGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0C1C34"/><stop offset="1" stop-color="#0A172B"/></linearGradient>
+  <linearGradient id="node" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#183952"/><stop offset="1" stop-color="#0B233E"/></linearGradient>
+  <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39D1FF"/><stop offset=".5" stop-color="#64E8D7"/><stop offset="1" stop-color="#F8C46A"/></linearGradient>
+  <clipPath id="frameClip"><rect width="1400" height="440" rx="14"/></clipPath>
+  <clipPath id="revealCommand"><rect x="103" y="285" height="29" width="0"><animate attributeName="width" values="0;0;215;215;0" keyTimes="0;.10;.45;.95;1" dur="6s" repeatCount="indefinite" calcMode="linear"/></rect></clipPath>
+  <filter id="blurGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="15"/></filter>
+  <filter id="packetGlow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation=".5"/></filter>
+</defs>
+<style>
+  .name{font-family:Inter,'DejaVu Sans',sans-serif;font-size:64px;font-weight:800;letter-spacing:-2.8px}
+  .kicker{font-family:Inter,'DejaVu Sans',sans-serif;font-size:12.5px;font-weight:750;letter-spacing:2.2px}
+  .sub{font-family:Inter,'DejaVu Sans',sans-serif;font-size:18px;font-weight:450}
+  .badge{font-family:Inter,'DejaVu Sans',sans-serif;font-size:11.2px;font-weight:650;fill:#CFE5F5}
+  .label{font-family:Inter,'DejaVu Sans',sans-serif;font-size:12px;font-weight:750;letter-spacing:1px}
+  .nodeTitle{font-family:Inter,'DejaVu Sans',sans-serif;font-size:17.5px;font-weight:780;letter-spacing:.25px}
+  .nodeSub{font-family:Inter,'DejaVu Sans',sans-serif;font-size:11px;font-weight:480}
+  .micro{font-family:Inter,'DejaVu Sans',sans-serif;font-size:10px;font-weight:650;letter-spacing:1.6px}
+  .mono{font-family:'DejaVu Sans Mono',monospace;font-weight:500}
+  .command{font-size:16.5px}
+  .small{font-size:11.4px}
+</style>
+<g clip-path="url(#frameClip)">
+<rect width="1400" height="440" fill="url(#bg)"/>
+<ellipse cx="1106" cy="221" rx="535" ry="345" fill="url(#halo)"/>
+<ellipse cx="1006" cy="440" rx="510" ry="170" fill="#134478" opacity=".11"/>
+<!-- Top-right background micro dot field -->
+<circle cx="1344" cy="250" r="1" fill="#7AABD6" opacity="0.36"/><circle cx="881" cy="42" r="0.7" fill="#7AABD6" opacity="0.18"/><circle cx="1232" cy="175" r="1" fill="#7AABD6" opacity="0.21"/><circle cx="1092" cy="98" r="0.8" fill="#7AABD6" opacity="0.35"/><circle cx="1182" cy="425" r="0.7" fill="#7AABD6" opacity="0.30"/><circle cx="1332" cy="298" r="0.7" fill="#7AABD6" opacity="0.27"/><circle cx="1115" cy="401" r="1.2" fill="#7AABD6" opacity="0.30"/><circle cx="1353" cy="230" r="1" fill="#7AABD6" opacity="0.11"/><circle cx="1338" cy="249" r="1" fill="#7AABD6" opacity="0.15"/><circle cx="1025" cy="317" r="0.8" fill="#7AABD6" opacity="0.29"/><circle cx="1216" cy="77" r="0.7" fill="#7AABD6" opacity="0.36"/><circle cx="989" cy="388" r="0.7" fill="#7AABD6" opacity="0.31"/><circle cx="1223" cy="48" r="0.8" fill="#7AABD6" opacity="0.23"/><circle cx="835" cy="140" r="0.7" fill="#7AABD6" opacity="0.15"/><circle cx="1345" cy="12" r="1.2" fill="#7AABD6" opacity="0.31"/><circle cx="1034" cy="298" r="1.2" fill="#7AABD6" opacity="0.13"/><circle cx="1128" cy="422" r="1.2" fill="#7AABD6" opacity="0.20"/><circle cx="1049" cy="85" r="1" fill="#7AABD6" opacity="0.16"/><circle cx="1045" cy="269" r="0.7" fill="#7AABD6" opacity="0.24"/><circle cx="854" cy="111" r="1.2" fill="#7AABD6" opacity="0.25"/><circle cx="1022" cy="178" r="0.7" fill="#7AABD6" opacity="0.21"/><circle cx="1331" cy="63" r="1" fill="#7AABD6" opacity="0.18"/><circle cx="1249" cy="361" r="0.7" fill="#7AABD6" opacity="0.19"/><circle cx="1154" cy="150" r="0.7" fill="#7AABD6" opacity="0.26"/><circle cx="971" cy="115" r="1.2" fill="#7AABD6" opacity="0.25"/><circle cx="1381" cy="66" r="0.7" fill="#7AABD6" opacity="0.26"/><circle cx="1061" cy="413" r="0.8" fill="#7AABD6" opacity="0.19"/><circle cx="1308" cy="54" r="0.7" fill="#7AABD6" opacity="0.26"/><circle cx="1100" cy="386" r="1.2" fill="#7AABD6" opacity="0.30"/><circle cx="865" cy="185" r="0.7" fill="#7AABD6" opacity="0.27"/><circle cx="912" cy="200" r="0.8" fill="#7AABD6" opacity="0.37"/><circle cx="1017" cy="430" r="1.2" fill="#7AABD6" opacity="0.32"/><circle cx="744" cy="181" r="0.7" fill="#7AABD6" opacity="0.16"/><circle cx="760" cy="155" r="0.8" fill="#7AABD6" opacity="0.15"/><circle cx="1153" cy="314" r="1.2" fill="#7AABD6" opacity="0.14"/><circle cx="1289" cy="193" r="1" fill="#7AABD6" opacity="0.12"/><circle cx="1182" cy="87" r="1" fill="#7AABD6" opacity="0.25"/><circle cx="898" cy="430" r="1.2" fill="#7AABD6" opacity="0.32"/><circle cx="1366" cy="109" r="0.8" fill="#7AABD6" opacity="0.30"/><circle cx="1020" cy="296" r="0.7" fill="#7AABD6" opacity="0.34"/><circle cx="807" cy="245" r="0.7" fill="#7AABD6" opacity="0.17"/><circle cx="1005" cy="161" r="0.7" fill="#7AABD6" opacity="0.14"/><circle cx="1090" cy="49" r="1" fill="#7AABD6" opacity="0.35"/><circle cx="849" cy="390" r="0.7" fill="#7AABD6" opacity="0.16"/><circle cx="1134" cy="30" r="1.2" fill="#7AABD6" opacity="0.27"/><circle cx="907" cy="148" r="0.8" fill="#7AABD6" opacity="0.13"/><circle cx="1292" cy="284" r="1.2" fill="#7AABD6" opacity="0.21"/><circle cx="1330" cy="262" r="0.8" fill="#7AABD6" opacity="0.21"/><circle cx="875" cy="87" r="0.7" fill="#7AABD6" opacity="0.20"/><circle cx="1213" cy="107" r="1" fill="#7AABD6" opacity="0.35"/><circle cx="1069" cy="245" r="1" fill="#7AABD6" opacity="0.13"/><circle cx="1289" cy="42" r="0.7" fill="#7AABD6" opacity="0.29"/><circle cx="1327" cy="71" r="0.7" fill="#7AABD6" opacity="0.33"/><circle cx="1181" cy="283" r="0.7" fill="#7AABD6" opacity="0.23"/><circle cx="1354" cy="388" r="0.8" fill="#7AABD6" opacity="0.19"/><circle cx="1267" cy="253" r="1" fill="#7AABD6" opacity="0.30"/><circle cx="1233" cy="200" r="1" fill="#7AABD6" opacity="0.27"/><circle cx="744" cy="260" r="1" fill="#7AABD6" opacity="0.20"/><circle cx="1173" cy="159" r="1.2" fill="#7AABD6" opacity="0.16"/><circle cx="1349" cy="118" r="0.8" fill="#7AABD6" opacity="0.17"/><circle cx="1037" cy="60" r="1" fill="#7AABD6" opacity="0.29"/><circle cx="1337" cy="89" r="1.2" fill="#7AABD6" opacity="0.24"/><circle cx="1110" cy="139" r="0.7" fill="#7AABD6" opacity="0.33"/><circle cx="792" cy="274" r="1.2" fill="#7AABD6" opacity="0.25"/><circle cx="738" cy="233" r="0.8" fill="#7AABD6" opacity="0.31"/><circle cx="781" cy="61" r="0.8" fill="#7AABD6" opacity="0.31"/><circle cx="984" cy="287" r="1.2" fill="#7AABD6" opacity="0.37"/><circle cx="944" cy="145" r="0.7" fill="#7AABD6" opacity="0.33"/><circle cx="1340" cy="33" r="1.2" fill="#7AABD6" opacity="0.36"/><circle cx="806" cy="48" r="0.8" fill="#7AABD6" opacity="0.36"/><circle cx="1232" cy="177" r="0.8" fill="#7AABD6" opacity="0.14"/><circle cx="703" cy="385" r="0.8" fill="#7AABD6" opacity="0.12"/><circle cx="1225" cy="136" r="1.2" fill="#7AABD6" opacity="0.20"/><circle cx="682" cy="222" r="0.7" fill="#7AABD6" opacity="0.25"/><circle cx="1062" cy="149" r="0.7" fill="#7AABD6" opacity="0.14"/><circle cx="1306" cy="411" r="0.8" fill="#7AABD6" opacity="0.16"/><circle cx="1253" cy="151" r="1.2" fill="#7AABD6" opacity="0.33"/><circle cx="726" cy="195" r="0.7" fill="#7AABD6" opacity="0.24"/><circle cx="834" cy="173" r="1.2" fill="#7AABD6" opacity="0.20"/><circle cx="967" cy="382" r="0.8" fill="#7AABD6" opacity="0.26"/><circle cx="945" cy="103" r="1.2" fill="#7AABD6" opacity="0.24"/><circle cx="1228" cy="74" r="0.7" fill="#7AABD6" opacity="0.22"/><circle cx="1125" cy="205" r="1.2" fill="#7AABD6" opacity="0.37"/><circle cx="1125" cy="228" r="0.8" fill="#7AABD6" opacity="0.34"/><circle cx="806" cy="76" r="1.2" fill="#7AABD6" opacity="0.31"/><circle cx="825" cy="149" r="1.2" fill="#7AABD6" opacity="0.35"/><circle cx="1078" cy="174" r="0.8" fill="#7AABD6" opacity="0.18"/><circle cx="775" cy="56" r="0.7" fill="#7AABD6" opacity="0.24"/><circle cx="1108" cy="19" r="0.7" fill="#7AABD6" opacity="0.36"/><circle cx="690" cy="335" r="0.8" fill="#7AABD6" opacity="0.18"/><circle cx="1179" cy="15" r="1" fill="#7AABD6" opacity="0.28"/><circle cx="1175" cy="67" r="1.2" fill="#7AABD6" opacity="0.25"/><circle cx="1097" cy="280" r="1.2" fill="#7AABD6" opacity="0.26"/><circle cx="1011" cy="172" r="0.8" fill="#7AABD6" opacity="0.11"/><circle cx="938" cy="11" r="1.2" fill="#7AABD6" opacity="0.12"/><circle cx="848" cy="403" r="1.2" fill="#7AABD6" opacity="0.12"/><circle cx="1363" cy="279" r="1.2" fill="#7AABD6" opacity="0.33"/><circle cx="724" cy="261" r="1" fill="#7AABD6" opacity="0.16"/><circle cx="810" cy="71" r="1.2" fill="#7AABD6" opacity="0.16"/><circle cx="1190" cy="286" r="1.2" fill="#7AABD6" opacity="0.35"/><circle cx="877" cy="46" r="1.2" fill="#7AABD6" opacity="0.15"/><circle cx="1175" cy="373" r="1" fill="#7AABD6" opacity="0.17"/><circle cx="993" cy="244" r="1.2" fill="#7AABD6" opacity="0.12"/><circle cx="1069" cy="231" r="0.8" fill="#7AABD6" opacity="0.13"/><circle cx="967" cy="382" r="0.8" fill="#7AABD6" opacity="0.29"/><circle cx="794" cy="432" r="0.7" fill="#7AABD6" opacity="0.21"/><circle cx="1099" cy="292" r="1.2" fill="#7AABD6" opacity="0.35"/><circle cx="905" cy="215" r="0.8" fill="#7AABD6" opacity="0.29"/><circle cx="749" cy="368" r="1.2" fill="#7AABD6" opacity="0.28"/><circle cx="1127" cy="420" r="1.2" fill="#7AABD6" opacity="0.29"/><circle cx="716" cy="265" r="0.7" fill="#7AABD6" opacity="0.25"/><circle cx="1185" cy="381" r="0.7" fill="#7AABD6" opacity="0.24"/><circle cx="1367" cy="134" r="0.8" fill="#7AABD6" opacity="0.15"/><circle cx="1283" cy="376" r="1.2" fill="#7AABD6" opacity="0.36"/><circle cx="1295" cy="284" r="1.2" fill="#7AABD6" opacity="0.29"/><circle cx="1379" cy="200" r="1.2" fill="#7AABD6" opacity="0.37"/><circle cx="1373" cy="423" r="0.7" fill="#7AABD6" opacity="0.23"/><circle cx="934" cy="247" r="0.7" fill="#7AABD6" opacity="0.36"/><circle cx="1108" cy="115" r="0.7" fill="#7AABD6" opacity="0.26"/><circle cx="1065" cy="278" r="1" fill="#7AABD6" opacity="0.29"/><circle cx="1202" cy="139" r="1" fill="#7AABD6" opacity="0.27"/><circle cx="1054" cy="129" r="1.2" fill="#7AABD6" opacity="0.30"/><circle cx="780" cy="185" r="0.8" fill="#7AABD6" opacity="0.34"/><circle cx="1067" cy="86" r="0.7" fill="#7AABD6" opacity="0.37"/><circle cx="732" cy="124" r="0.7" fill="#7AABD6" opacity="0.30"/>
+<!-- subtle architectural grid -->
+<g stroke="#3E6E9F" stroke-width=".6" opacity=".09">
+  <path d="M650 70H1400 M650 105H1400 M650 140H1400 M650 175H1400 M650 210H1400 M650 245H1400 M650 280H1400 M650 315H1400 M650 350H1400 M650 385H1400"/>
+  <path d="M690 0V440 M725 0V440 M760 0V440 M795 0V440 M830 0V440 M865 0V440 M900 0V440 M935 0V440 M970 0V440 M1005 0V440 M1040 0V440 M1075 0V440 M1110 0V440 M1145 0V440 M1180 0V440 M1215 0V440 M1250 0V440 M1285 0V440 M1320 0V440 M1355 0V440"/>
+</g>
+<!-- decorative beams -->
+<path d="M0 427 C240 385 401 453 651 404 S1189 405 1400 358" fill="none" stroke="#28568A" stroke-width="1.1" opacity=".25"/>
+<path d="M0 421 C240 381 401 447 651 398 S1189 399 1400 352" fill="none" stroke="#16477D" stroke-width="1" opacity=".15"/>
+
+<!-- Brand icon -->
+<rect x="64" y="54" width="31" height="31" rx="9" fill="#123451" stroke="#2C749C" stroke-width="1.4"/>
+<path d="M77 63L72 69.5L77 76M82 63L87 69.5L82 76" fill="none" stroke="#6DDAFF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M80.4 61.7L78.6 77.3" stroke="#6DDAFF" stroke-width="1.5" stroke-linecap="round"/>
+<text x="107" y="75" class="kicker" fill="#92CFFF">SYSTEMS ENGINEER  /  BACKEND DEVELOPER</text>
+<text x="64" y="164" class="name" fill="#F5F8FF">Brayan Mancilla</text>
+<text x="66" y="204" class="sub" fill="#BBD2E8">Building reliable APIs and scalable backend systems.</text>
+<text x="66" y="231" class="sub" fill="#79C9FF">From code to cloud, one service at a time.</text>
+
+<!-- Left terminal -->
+<rect x="64" y="249" width="606" height="100" rx="13" fill="#071320" stroke="#245070" stroke-width="1.2"/>
+<rect x="65" y="250" width="604" height="26" rx="12" fill="#13273B"/>
+<path d="M65 263H669V276H65Z" fill="#13273B"/>
+<circle cx="81" cy="263" r="3.6" fill="#F07B7B"/><circle cx="94" cy="263" r="3.6" fill="#F5C567"/><circle cx="107" cy="263" r="3.6" fill="#68D6A1"/>
+<text x="129" y="267" class="mono" font-size="11" fill="#799FBB">brayan@backend:~</text>
+<text x="84" y="310" class="mono command" fill="#59E9B5">$</text>
+<text x="103" y="310" class="mono command" fill="#DDEFFB" clip-path="url(#revealCommand)">npm run build:future</text>
+        <rect x="103" y="288" width="0" height="25" fill="#67EFC2" rx="1.5">
+          <animate attributeName="x" values="103;103;306;306" keyTimes="0;.10;.47;1" dur="6s" repeatCount="indefinite"/>
+          <animate attributeName="width" values="2;2;2;2" dur="6s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="1;0;1;0;1" dur="1s" repeatCount="indefinite"/>
+        </rect>
+<text x="85" y="336" class="mono small" fill="#85A8BE">[init] building reliable systems...<animate attributeName="opacity" values="1;1;1;0;0;1" keyTimes="0;.4;.48;.56;.93;1" dur="6s" repeatCount="indefinite"/></text>
+        <text x="85" y="336" class="mono small" fill="#68E7B5" opacity="0">[200 OK] API ready · DB connected · AWS next
+          <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;.4;.48;.56;.93;1" dur="6s" repeatCount="indefinite"/>
+        </text>
+<!-- Tech badges -->
+<g><rect x="64" y="362" width="82" height="35" rx="9" fill="#132B44" stroke="#234762" stroke-width="1"/>
+    <circle cx="78" cy="379.5" r="3.25" fill="#4AAEF5"/>
+    <text x="88" y="384" class="badge">JAVA</text></g><g><rect x="154" y="362" width="103" height="35" rx="9" fill="#132B44" stroke="#234762" stroke-width="1"/>
+    <circle cx="168" cy="379.5" r="3.25" fill="#4AAEF5"/>
+    <text x="178" y="384" class="badge">PYTHON</text></g><g><rect x="265" y="362" width="125" height="35" rx="9" fill="#132B44" stroke="#234762" stroke-width="1"/>
+    <circle cx="279" cy="379.5" r="3.25" fill="#6ADCAA"/>
+    <text x="289" y="384" class="badge">SPRING BOOT</text></g><g><rect x="398" y="362" width="138" height="35" rx="9" fill="#132B44" stroke="#234762" stroke-width="1"/>
+    <circle cx="412" cy="379.5" r="3.25" fill="#6CAFFF"/>
+    <text x="422" y="384" class="badge">POSTGRESQL</text></g><g><rect x="544" y="362" width="147" height="35" rx="9" fill="#132B44" stroke="#234762" stroke-width="1"/>
+    <circle cx="558" cy="379.5" r="3.25" fill="#F9BC58"/>
+    <text x="568" y="384" class="badge">AWS · LEARNING</text></g>
+
+<!-- Universe panel and header -->
+<rect x="736" y="43" width="610" height="356" rx="20" fill="#050B16" opacity=".32" transform="translate(0 7)"/>
+<rect x="736" y="43" width="610" height="356" rx="20" fill="url(#panel)" stroke="#2B517A" stroke-width="1.2"/>
+<path d="M737 101H1345" stroke="#23425F" stroke-width="1"/>
+<rect x="737" y="44" width="608" height="56" rx="19" fill="#10243D" opacity=".8"/>
+<path d="M737 85H1345V101H737Z" fill="#10243D" opacity=".8"/>
+<circle cx="762" cy="71" r="4" fill="#567792"/>
+<circle cx="777" cy="71" r="4" fill="#567792"/>
+<circle cx="792" cy="71" r="4" fill="#567792"/>
+<text x="815" y="76" class="label" fill="#C4DBF1">BACKEND UNIVERSE</text>
+<rect x="1226" y="58" width="96" height="25" rx="12.5" fill="#123D3D" stroke="#26675F"/>
+<circle cx="1243" cy="70.5" r="4" fill="#58E8AD"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1255" y="75" fill="#88E7C0" class="micro" font-size="9">LIVE MAP</text>
+<text x="767" y="129" class="micro" fill="#769FC0">REQUEST FLOW  /  SYSTEM DESIGN</text>
+<text x="1315" y="129" text-anchor="end" class="micro" fill="#7594B1">V 1.0</text>
+
+<!-- connections -->
+<path d="M 916 189 L 976 189" stroke="#17314D" stroke-width="13" stroke-linecap="round" opacity=".9" fill="none"/>
+<path d="M 1044 228 C 1033 269 877 245 877 280" stroke="#17314D" stroke-width="13" stroke-linecap="round" opacity=".8" fill="none"/>
+<path d="M 1095 228 C 1126 269 1234 246 1234 280" stroke="#17314D" stroke-width="13" stroke-linecap="round" opacity=".8" fill="none"/>
+<path d="M 916 189 L 976 189" stroke="#49D2FB" stroke-width="2.4" stroke-linecap="round" opacity=".73" fill="none"/>
+<path d="M 1044 228 C 1033 269 877 245 877 280" stroke="#61DEA9" stroke-width="2.4" stroke-linecap="round" opacity=".75" fill="none"/>
+<path d="M 1095 228 C 1126 269 1234 246 1234 280" stroke="#E2B65E" stroke-width="2.4" stroke-linecap="round" opacity=".75" fill="none"/>
+<path d="M969 184L976 189L969 194" fill="none" stroke="#5CD5F9" stroke-width="1.9" stroke-linejoin="round"/>
+
+<!-- node 1: request -->
+<rect x="780" y="149" width="137" height="79" rx="14" fill="url(#node)" stroke="#2E6F92" stroke-width="1.3"/>
+<rect x="794" y="162" width="27" height="26" rx="7" fill="#14435B" stroke="#387A98"/>
+<path d="M801 170L806 175L801 180M814 170L809 175L814 180" fill="none" stroke="#75D8FE" stroke-width="1.65" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="832" y="179" class="nodeTitle" font-size="16" fill="#ECF6FF">CLIENT</text>
+<text x="795" y="208" class="nodeSub" fill="#98C3DB">HTTP requests</text>
+
+<!-- node 2: REST API -->
+<rect x="977" y="149" width="154" height="79" rx="14" fill="#154568" stroke="#42BBED" stroke-width="1.8"/>
+<rect x="991" y="162" width="27" height="26" rx="7" fill="#216083" stroke="#3886A8"/>
+<path d="M997 170L1002 175L997 180M1011 170L1006 175L1011 180" fill="none" stroke="#C7F2FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1027" y="179" class="nodeTitle" fill="#F3FCFF">REST API</text>
+<text x="992" y="207" class="nodeSub" fill="#ABDDF8">Spring · NestJS</text>
+<rect x="1109" y="158" width="9" height="9" rx="4.5" fill="#70EFC0"/>
+
+<!-- node 3: DB -->
+<rect x="784" y="280" width="175" height="74" rx="13" fill="url(#node)" stroke="#3C857D" stroke-width="1.3"/>
+<ellipse cx="807" cy="302" rx="10" ry="4" stroke="#76E1C7" stroke-width="1.5" fill="none"/>
+<path d="M797 302V316C797 321 817 321 817 316V302M797 309C797 314 817 314 817 309" fill="none" stroke="#76E1C7" stroke-width="1.5"/>
+<text x="827" y="305" class="nodeTitle" font-size="15" fill="#F2FAFF">POSTGRESQL</text>
+<text x="828" y="331" class="nodeSub" fill="#9BCBBC">SQL · Data layer</text>
+
+<!-- node 4: cloud learning -->
+<rect x="1146" y="280" width="165" height="74" rx="13" fill="url(#node)" stroke="#9B8159" stroke-width="1.3"/>
+<path d="M1166 311C1156 311 1158 300 1166 300C1168 289 1183 290 1184 300C1196 299 1196 312 1187 312Z" fill="none" stroke="#FAC979" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1200" y="305" class="nodeTitle" font-size="16" fill="#FDF8ED">AWS CLOUD</text>
+<text x="1200" y="331" class="nodeSub" fill="#E4C78E">Learning mode</text>
+
+<!-- motion packets (SVG and GIF) -->
+<g filter="url(#packetGlow)"><circle r="6" fill="#39D1FF" opacity=".23"><animateMotion dur="6.0s" begin="0.3s" repeatCount="indefinite" path="M 916 189 L 976 189"/></circle><circle r="4" fill="#39D1FF"><animateMotion dur="6.0s" begin="0.3s" repeatCount="indefinite" path="M 916 189 L 976 189"/></circle></g>
+<g filter="url(#packetGlow)"><circle r="6.8" fill="#57E5B9" opacity=".23"><animateMotion dur="6.0s" begin="1.15s" repeatCount="indefinite" path="M 1044 228 C 1033 269 877 245 877 280"/></circle><circle r="4.8" fill="#57E5B9"><animateMotion dur="6.0s" begin="1.15s" repeatCount="indefinite" path="M 1044 228 C 1033 269 877 245 877 280"/></circle></g>
+<g filter="url(#packetGlow)"><circle r="6.8" fill="#F8C46A" opacity=".23"><animateMotion dur="6.0s" begin="2.0s" repeatCount="indefinite" path="M 1095 228 C 1126 269 1234 246 1234 280"/></circle><circle r="4.8" fill="#F8C46A"><animateMotion dur="6.0s" begin="2.0s" repeatCount="indefinite" path="M 1095 228 C 1126 269 1234 246 1234 280"/></circle></g>
+
+<text x="1043" y="383" text-anchor="middle" class="micro" fill="#78A8CA">BUILD  ·  CONNECT  ·  SCALE</text>
+</g>
+</svg>
